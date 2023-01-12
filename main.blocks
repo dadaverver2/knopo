@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="-f(Y@p6`rdt5{ls$G/i]" x="225" y="20"><statement name="HANDLER"><block type="device_while" id="62f;x20umCJXZ5.T859]"><value name="COND"><shadow type="logic_boolean" id="Z_7u)}84cw%@#OUQW}n9"><field name="BOOL">FALSE</field></shadow></value><statement name="DO"><block type="device_show_leds" id="d#[;rln+hUT75uFQm=b:"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block></statement></block><block type="device_button_event" id="QCCyZen4a6V$)0%=GXNn" x="484" y="34"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="-R70Nq1R}$pm[6c+bb*I"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . .
+        `</field></block></statement></block><block type="device_button_event" id="R):B1LB6e%bbZ$(45rrt" x="824" y="41"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="[q|,.8is(}%5{VGlo#:p"><field name="LEDS">`
+        . . . . # 
+        . . . . # 
+        . . . . # 
+        . . . . # 
+        . . . . #
+        `</field></block></statement></block></xml>
